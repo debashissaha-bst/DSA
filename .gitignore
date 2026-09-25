@@ -1,0 +1,24 @@
+# Compiled C++ binaries
+*.exe
+*.out
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
+
+# VS Code settings
+.vscode/
+
+# Build folders
+build/
+bin/
+obj/
+
+# Temporary/system files
+*.tmp
+*.log
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
